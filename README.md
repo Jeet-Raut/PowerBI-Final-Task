@@ -50,4 +50,5 @@ This repository contains a Power BI report developed as part of a final data vis
 Feel free to connect or reach out for feedback or collaboration:
 
 - 📧 Email: jeet.rautt@gmail.com
+- jeetu.raut70@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/JeetRaut26
