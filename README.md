@@ -12,7 +12,7 @@ This repository contains a Power BI report developed as part of a final data vis
 - **Tool Used:** Power BI Desktop (.pbix)  
 - **Date Created:** 14 May 2025
 
-## 📌 Objectives
+## 📌 Objectives  
 
 - Clean and transform raw sales data
 - Build a star schema model for efficient analysis
