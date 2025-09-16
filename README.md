@@ -27,14 +27,6 @@ This repository contains a Power BI report developed as part of a final data vis
 |----------------------------------------------------|----------------------------------------------|
 | `PowerBI_FinalTask_JeetuRaut(14-05-2025).pbix`     | Power BI project file containing the dashboard and data model |
 
-## 📈 Key Features
-
-- 🧹 Data Cleaning & Modeling using Power BI's Power Query Editor  
-- 🌟 Star Schema implementation for optimized relationships  
-- 📉 Trend Analysis using line charts and area graphs  
-- 💰 KPI Cards for revenue, profit, and customer metrics  
-- 🧭 Slicers for time-based and categorical filtering  
-- 📌 Drill-down and tooltip interactions for enhanced UX
 
 
 ## 🧠 Learnings & Tools
