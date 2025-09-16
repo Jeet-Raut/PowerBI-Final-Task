@@ -5,21 +5,7 @@ Power BI Final Task - Sales Dashboard by Jeetu Raut
   
 This repository contains a Power BI report developed as part of a final data visualization task. The report provides an in-depth analysis of sales data, including key performance indicators (KPIs), trends, category breakdowns, and actionable insights designed to support strategic decision-making.
 
-## 🧠 Project Overview
 
-- **Project Title:** Power BI Final Task - Sales Performance Dashboard                                                                     
-- **Author:** Jeetu Raut  
-- **Tool Used:** Power BI Desktop (.pbix)  
-- **Date Created:** 14 May 2025
-
-## 📌 Objectives  
-
-- Clean and transform raw sales data
-- Build a star schema model for efficient analysis
-- Design interactive visualizations to:
-  - Highlight sales trends and KPIs
-  - Break down revenue by category, region, and time
-  - Support executive decision-making
 
 ## 📁 File Included
 
@@ -27,6 +13,15 @@ This repository contains a Power BI report developed as part of a final data vis
 |----------------------------------------------------|----------------------------------------------|
 | `PowerBI_FinalTask_JeetuRaut(14-05-2025).pbix`     | Power BI project file containing the dashboard and data model |
 
+
+## 📈 Key Features
+
+- 🧹 Data Cleaning & Modeling using Power BI's Power Query Editor  
+- 🌟 Star Schema implementation for optimized relationships  
+- 📉 Trend Analysis using line charts and area graphs  
+- 💰 KPI Cards for revenue, profit, and customer metrics  
+- 🧭 Slicers for time-based and categorical filtering  
+- 📌 Drill-down and tooltip interactions for enhanced UX
 
 
 ## 🧠 Learnings & Tools
