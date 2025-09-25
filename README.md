@@ -9,7 +9,7 @@ This repository contains a Power BI report developed as part of a final data vis
 
 - **Project Title:** Power BI Final Task - Sales Performance Dashboard                                                                     
 - **Author:** Jeetu Raut
-- **Tool Used:** Power BI Desktop (.pbix)  
+- **Tool Used:** Power BI Desktop (.pbix)
 - **Date Created:** 14 May 2025
 
 ## 📌 Objectives  
