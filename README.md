@@ -5,7 +5,7 @@ Power BI Final Task - Sales Dashboard by Jeetu Raut
 
 This repository contains a Power BI report developed as part of a final data visualization task. The report provides an in-depth analysis of sales data, including key performance indicators (KPIs), trends, category breakdowns, and actionable insights designed to support strategic decision-making.
 
-## 🧠 Project Overview
+## 🧠 Project Overview 
 
 - **Project Title:** Power BI Final Task - Sales Performance Dashboard                                                                     
 - **Author:** Jeetu Raut
